@@ -47,6 +47,12 @@ body{
     margin-right: 2px;
     padding-left: 16px;
     margin-bottom: 16px;
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #DADADA;
 }
 .title2{
     font-family: Sora, sans-serif;
@@ -65,6 +71,12 @@ body{
     height: 48px;
     margin-bottom: 16px;
     margin-right: 2px;
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #DADADA;
 }
 .input3{
     width: 408px;
@@ -75,6 +87,12 @@ body{
     border-radius: 8px;
     margin-bottom: 16px;
     margin-right: 2px;
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #DADADA;
 }
 .input4{
     width: 408px;
@@ -84,6 +102,12 @@ body{
     box-sizing: border-box;
     border-radius: 8px;
     margin-bottom: 40px;
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #DADADA;
 }
 .btn{
     width: 384px;
