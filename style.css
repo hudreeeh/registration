@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    width: 664px;
+    height: 576px;
+    background-color: #FFFFFF;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 40px 24px;
+}
+.title{
+    font-family: Sora, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-bottom: 24px;
+}
+.subtitle{
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    margin-bottom: 16px;
+}
+input{
+    height: 48px;
+    width: 200px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-right: 2px;
+    padding-left: 16px;
+}
