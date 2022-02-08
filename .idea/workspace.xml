@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="feat: анкета для корпоративных клиентов">
+    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="init: Анкета для корпоративных клиентов">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644294417300</updated>
       <workItem from="1644294418552" duration="100000" />
-      <workItem from="1644294530671" duration="3229000" />
+      <workItem from="1644294530671" duration="4679000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project">
       <created>1644294623998</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644297849253</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init: Анкета для корпоративных клиентов">
+      <created>1644298021416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644298021416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: start project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: start project" />
+    <MESSAGE value="init: Анкета для корпоративных клиентов" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: Анкета для корпоративных клиентов" />
   </component>
 </project>

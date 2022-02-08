@@ -38,13 +38,50 @@ body{
     color: #000000;
     margin-bottom: 16px;
 }
-input{
+.input1{
     height: 48px;
     width: 200px;
     opacity: 0.5;
     border: 0.5px solid #AEAEAE;
-    box-sizing: border-box;
     border-radius: 8px;
     margin-right: 2px;
     padding-left: 16px;
+    margin-bottom: 16px;
+}
+.title2{
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.input2{
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 200px;
+    height: 48px;
+    margin-bottom: 16px;
+    margin-right: 2px;
+}
+.input3{
+    width: 408px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    margin-right: 2px;
+}
+.input4{
+    width: 408px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-bottom: 40px;
 }
