@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="init: Анкета для корпоративных клиентов">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="init: Паспортные данные">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -49,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644294417300</updated>
       <workItem from="1644294418552" duration="100000" />
-      <workItem from="1644294530671" duration="4679000" />
+      <workItem from="1644294530671" duration="4988000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project">
       <created>1644294623998</created>
@@ -72,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644298021416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init: Паспортные данные">
+      <created>1644299991076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644299991076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: start project" />
     <MESSAGE value="init: Анкета для корпоративных клиентов" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: Анкета для корпоративных клиентов" />
+    <MESSAGE value="init: Паспортные данные" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: Паспортные данные" />
   </component>
 </project>
