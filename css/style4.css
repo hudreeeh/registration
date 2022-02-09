@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+.container4{
+    margin-top: 220px;
+    display: flex;
+    justify-content: center;
+}
+.box4{
+    width: 640px;
+    height: 328px;
+    background-color: #FFFFFF;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 40px 128px 48px 128px;
+}
+.title5{
+    font-family: Sora, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 8px;
+}
+.subtitle5{
+    font-family: Sora, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #A9A9A9;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+.form4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input11{
+    width: 48px;
+    height: 48px;
+    background-color: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    border-radius: 12px;
+    font-family: Sofia Pro, sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #141414;
+    margin-right: 8px;
+    margin-bottom: 40px;
+}
+.btn4{
+    width: 384px;
+    height: 48px;
+    background-color: #232529;
+    border-radius: 4px;
+}
+.link4{
+    font-family: Sora, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}

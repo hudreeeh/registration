@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="feat: start 3 page">
+    <list default="true" id="5944c86e-be51-4edd-b785-1288667084f7" name="Changes" comment="feat: start 4 page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <updated>1644294417300</updated>
       <workItem from="1644294418552" duration="100000" />
       <workItem from="1644294530671" duration="10156000" />
-      <workItem from="1644380410338" duration="2305000" />
+      <workItem from="1644380410338" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="init: start project">
       <created>1644294623998</created>
@@ -121,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644382319245</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: finish 3 page">
+      <created>1644383719780</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644383719780</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: start 4 page">
+      <created>1644383756590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644383756590</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +157,8 @@
     <MESSAGE value="feat: Данные о ваших доходах" />
     <MESSAGE value="feat: finish project" />
     <MESSAGE value="feat: start 3 page" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: start 3 page" />
+    <MESSAGE value="feat: finish 3 page" />
+    <MESSAGE value="feat: start 4 page" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: start 4 page" />
   </component>
 </project>
