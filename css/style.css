@@ -65,6 +65,7 @@ body{
     height: 48px;
     margin-bottom: 16px;
     margin-right: 2px;
+
 }
 .input3{
     width: 408px;
@@ -107,3 +108,11 @@ body{
     color: #FFFFFF;
     text-decoration: none;
 }
+option{
+    background: #FFFFFF;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    width: 200px;
+    height: 88px;
+}
+
